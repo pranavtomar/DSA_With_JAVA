@@ -1,4 +1,4 @@
-package flowOfProgram;
+package _1flowOfProgram;
 
 import java.util.Scanner;
 
@@ -16,6 +16,8 @@ public class SumOfTwoNumbers {
 		float sumOfNumbers = firstNumber + secondNumber;
 		
 		System.out.println("Sum of Numbers is : "+sumOfNumbers);
+		
+		
 	}
 
 }
